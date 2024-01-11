@@ -1,7 +1,7 @@
 const Twitter = require('twitter-lite');
 
 
-
+//TESTANDO!
 // Insira suas chaves de acesso aqui
 const api_key = " " 
 const api_key_secret = " " 
